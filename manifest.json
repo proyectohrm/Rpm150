@@ -1,0 +1,9 @@
+{
+  "name": "RPM Moto 150",
+  "short_name": "RPM Moto",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "description": "Estimador de RPM de una moto monocilíndrica usando el micrófono del teléfono."
+}
